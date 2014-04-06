@@ -5,8 +5,9 @@ Paper
 
 黄佳佳 朱佳晖
 
+数据流预处理部分
 
-本文方法：基于压缩感知(字典训练Dictionary-Learning)的数据流压缩
+本文方法：基于压缩感知(字典训练Dictionary-Learning)的数据流压缩（Python部分）
 
 Baseline: SPUR  ——SIGKDD 2012 A Framework for Summarizing and Analyzing Twitter Feeds
 
